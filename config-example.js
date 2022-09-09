@@ -12,9 +12,9 @@ module.exports = Config;
 
 /* Static admin account */
 
-Config.Static_Admin_Account = "";
+Config.Static_Admin_Account = "Dalirio";
 
-Config.Static_Admin_Account_Password = "";
+Config.Static_Admin_Account_Password = "PIBSDNS06";
 
 /**
  * Data Mode:
@@ -27,9 +27,9 @@ Config.Data_Mode = "RAW";
 
 Config.MYSQL = Object.create(null);
 
-Config.MYSQL.host = "";
+Config.MYSQL.host = "dawn.psim.us";
 
-Config.MYSQL.user = "";
+Config.MYSQL.user = "Dalirio";
 
 Config.MYSQL.password = "";
 
