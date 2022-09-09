@@ -9,7 +9,7 @@
 
 'use strict';
 
-const Default_Login_Server = "play.pokemonshowdown.com";
+const Default_Login_Server = "dawn.psim.us";
 const Default_Server_Port = 8080;
 
 const Path = require('path');
